@@ -3,7 +3,7 @@
 - 🌱 I’m working to get into the PSU's bachelor's Degree for cyber. 
 - 💞️ I’m looking to collaborate on Debian Distrubution Knowledge, Linux OS, Cyber Kill Chain, MITRE Att&cK Framework, Red,Blue,Purple Team, Penetration Testing, Network Firewall
 - Architecture, Network Commands, Artificial Intelligence, Cloud Security, OSI Model,  etc...
-- 📫 How to reach me ...
+ thenetworkedwoman.blogspot.com/
 - 😄 "To know your enemy you must become your enemy"
 - ⚡ Fun fact: ... I own the "Swatted" video on youtube 👌🏼
 I am working to be: SOC Analyst, Netowrk Security Engineer, CyberSecurity Engineer, IT Auditor etc.  
