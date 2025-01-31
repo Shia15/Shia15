@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shia15
+- 👋 Hello
 - 👀 I’m breaking into the field of Cyber Security! I have completed the Penn State Cyber Introduction Bootcamp. Very Eager to learn and grow in the field.
 - 🌱 I’m working to get into the PSU's bachelor's Degree for cyber. 
 - 💞️ I’m looking to collaborate on Debian Distrubution Knowledge, Linux OS, Cyber Kill Chain, MITRE Att&cK Framework, Red,Blue,Purple Team, Penetration Testing, Network Firewall
