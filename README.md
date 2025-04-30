@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shia Helenne Miller
 
-I'm a **Software Engineering student at Penn State** with a strong interest in **Cybersecurity, Frontend Development**, and **Data Science**. I'm passionate about building useful, beautiful things — from secure systems to web apps.
+I'm a **Software Engineering student at Penn State** with a strong interest in **Cybersecurity, Frontend Development**, and **Data Science**. I'm passionate about building useful, beautiful things | from secure systems to web apps.
 
 ---
 
