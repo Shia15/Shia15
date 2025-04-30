@@ -20,9 +20,9 @@ I'm a **Software Engineering student at Penn State** with a strong interest in *
 ### 🛠 Tools & Technologies
 - **Languages**: Java, Python, JavaScript  
 - **Web**: React, Tailwind CSS, Vercel  
-- **Systems**: Linux (Debian-based), Command Line  
-- **Cyber Tools**: Wireshark, Nmap, Cisco Packet Tracer  
-- **Currently Exploring**: Data Science, AI, Cloud, Security Ops
+- **Systems**: Linux (Debian-based), Command Line, Cent OS, Windows  
+- **Cyber Tools**: Wireshark, Nmap, Cisco Packet Tracer, TDX Arena, CYRIN Labs
+- **Currently Exploring**: Data Science, AI, Cloud, Security Ops, Web Development, UX Design
 
 ---
 
