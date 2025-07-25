@@ -33,9 +33,9 @@ I'm a **Software Engineering student at Penn State** with a strong interest in *
 - ✍️ [My Blog: The Networked Woman](https://thenetworkedwoman.blogspot.com/)  
   Documenting my journey into Cybersecurity, Software, and Tech Empowerment
 
-- 📁 **Portfolio**: *Coming soon!*  
+- 📁 **Portfolio**: *In Progress!*  
   _This will showcase my coding projects, writing samples, technical walkthroughs, and more._  
-  🔗 **Link will be added here:** `https://your-portfolio-link.com`
+  🔗 **Link will be added here:** `https://shia-miller-portfolio.b12sites.com/index
 
 - 📺 Fun fact: I *own the "Swatted" video on YouTube* 😄
 
