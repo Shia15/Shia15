@@ -23,7 +23,13 @@ I'm a **Software Engineering student at Penn State** with a strong interest in *
 - **Currently Exploring**: Data Science, AI, Cloud, Security Ops, Web Development, UX Design
 ---
 
-🌐 Projects & Links
+📫 Connect With Me
+
+LinkedIn: Shia Miller
+
+Discord: _uDynamic
+
+🌐 Projects & Links ~
 
 🧠 Neuronote – My First Web App!
 https://neuronote.vercel.app
